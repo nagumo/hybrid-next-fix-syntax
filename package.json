@@ -1,0 +1,20 @@
+{
+  "name": "hybrid-next-fix-syntax",
+  "author": "Toshiaki Nagumo <akind.knight.022@gmail.com>",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Fixing for atom 1.23.3+ by remove shadow dom.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "hybrid",
+    "next",
+    "fix",
+    "dark"
+  ],
+  "repository": "https://github.com/nagumo/hybrid-next-fix-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.23.3"
+  }
+}
