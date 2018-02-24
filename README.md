@@ -1,4 +1,4 @@
-# Hybrid Next Fix for Ato m 1.23.3+
+# Hybrid Next Fix for Atom 1.23.3+
 
 This theme is fix of Hybrid Next theme for Atom 1.23.3+.e
 Only fixing remove shadow dom.
